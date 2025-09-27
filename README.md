@@ -45,12 +45,12 @@ The code for inference-time compliance (see the long Table 1 in Appendix of the 
  
 #### Example Runs
 
-Use Qwen2.5 from OpenRouter API on HIPAA policy using PRTs as few-shots:
+Use Qwen2.5 from OpenRouter API on HIPAA policy using PRTs as few-shots: <br>
 `python script.py --model_id "qwen/qwen-2.5-7b-instruct" --policy_file "hipaa/hipaa.txt" --test_file "hipaa/test.csv" --reasoning_traces_file "hipaa/r1-reasoning.csv" --mode "few_shot_PRT"`
 
-Use GPT-5-Mini from OpenAI API  on GDPR policy using PRTs as few-shots:
+Use GPT-5-Mini from OpenAI API  on GDPR policy using PRTs as few-shots:<br>
 `python script.py --model_id "gpt-5-mini" --policy_file "gdpr/gdpr.txt" --test_file "gdpr/test.csv" --reasoning_traces_file "gdpr/r1-reasoning.csv" --mode "few_shot_PRT"`
 
-Use DeepSeek-R1 from DeepSeek API on ModelSpec policy using PRTs as few-shots:
+Use DeepSeek-R1 from DeepSeek API on ModelSpec policy using PRTs as few-shots:<br>
 `python script.py --model_id "deepseek-reasoner" --policy_file "modelspec/modelspec.txt" --test_file "modelspec/test.csv" --reasoning_traces_file "modelspec/r1-reasoning.csv" --mode "few_shot_PRT"`
 

@@ -1,0 +1,168 @@
+HIPAA Privacy Policy
+---
+164.500(a) - The HIPAA Privacy Rule applies to covered entities (health plans, health care clearinghouses, and health care providers who transmit health information electronically) regarding protected health information (PHI), unless otherwise specified.
+---
+164.500(b) - Health care clearinghouses must comply with the Privacy Rule as follows: (1) When acting as a business associate, they must follow specific sections (164.500, 164.501, 164.502, 164.504, 164.512, 164.532, 164.534), and may only use/disclose PHI as allowed by their business associate contract; (2) When not acting as a business associate, they must comply with all Privacy Rule requirements.
+---
+164.500(c) - Business associates are subject to the Privacy Rule for PHI they handle on behalf of covered entities, as specified in applicable provisions.
+---
+164.500(d) - The Privacy Rule does not apply to the Department of Defense, other federal agencies, or non-governmental organizations acting on their behalf when providing health care to overseas foreign national beneficiaries.
+---
+164.501(a-k) - This section defines key terms used in the Privacy Rule, including: correctional institution, data aggregation, designated record set, direct/indirect treatment relationship, health care operations, health oversight agency, inmate, marketing (with exceptions and definition of financial remuneration), payment, psychotherapy notes, public health authority, research, and treatment. Each definition clarifies the scope and application of the Privacy Rule for those terms.
+---
+164.502(a) - Covered entities and business associates may only use or disclose PHI as permitted or required by the Privacy Rule. Permitted uses/disclosures include: (1) to the individual; (2) for treatment, payment, or health care operations; (3) as incident to permitted uses; (4) with valid authorization; (5) as allowed by specific sections (e.g., 164.510, 164.512, 164.514); and (6) as required by law or for compliance investigations. Required disclosures include those to individuals (upon request) and to the Secretary of HHS. Business associates may only use/disclose PHI as allowed by their contract or by law. Prohibitions include: (i) using genetic information for underwriting (with exceptions); (ii) selling PHI except as permitted; (iii) using/disclosing PHI for certain reproductive health care investigations or enforcement, unless specific legal conditions are met.
+---
+164.502(b) - Covered entities and business associates must limit PHI use/disclosure/request to the minimum necessary to accomplish the intended purpose, except for treatment, disclosures to the individual, authorized uses, disclosures to the Secretary, uses/disclosures required by law, or for compliance.
+---
+164.502(c) - If a covered entity agrees to restrict use/disclosure of PHI per an individual's request, it must comply with that restriction, except as otherwise allowed.
+---
+164.502(d) - Covered entities may use PHI to create de-identified information or disclose PHI to business associates for this purpose. De-identified information is not subject to the Privacy Rule unless re-identified.
+---
+164.502(e) - Covered entities may disclose PHI to business associates (and business associates to subcontractors) if satisfactory assurances (via written contract or agreement) are obtained that the recipient will safeguard the information.
+---
+164.502(f) - Covered entities must protect the PHI of deceased individuals for 50 years after death.
+---
+164.502(g) - Covered entities must treat personal representatives as the individual for Privacy Rule purposes, with exceptions for minors, deceased individuals, and situations involving abuse, neglect, or endangerment. Specific rules apply for unemancipated minors and deceased individuals.
+---
+164.502(h) - Covered entities must comply with requirements for confidential communications as specified in §164.522(b).
+---
+164.502(i) - Covered entities required to provide a notice of privacy practices may not use/disclose PHI in ways inconsistent with that notice.
+---
+164.502(j) - Whistleblowers and workforce members who are crime victims may disclose PHI under certain conditions without violating the Privacy Rule, provided disclosures are made in good faith and to appropriate authorities or legal counsel.
+---
+164.504(a) - Defines "plan administration functions" (administrative tasks for group health plans) and "summary health information" (de-identified claims data with limited geographic detail).
+---
+164.504(b)-(d) - [Reserved; no content to summarize.]
+---
+164.504(e) - Business associate contracts must specify permitted/required uses/disclosures of PHI, require safeguards, reporting of breaches, flow-down of restrictions to subcontractors, and allow contract termination for violations. Governmental entities may use memoranda of understanding or rely on law/regulation if equivalent. Data use agreements are required for limited data sets.
+---
+164.504(f) - Group health plans must restrict plan sponsor access to PHI, require plan documents to specify permitted uses/disclosures, ensure separation between plan and sponsor, and prohibit use of PHI for employment-related actions. Summary health information and enrollment status may be disclosed under certain conditions.
+---
+164.504(g) - Covered entities with multiple covered functions must comply with applicable standards for each function and may only use/disclose PHI for the appropriate function.
+---
+164.506(a) - Covered entities may use/disclose PHI for treatment, payment, or health care operations, except where authorization is required or prohibited.
+---
+164.506(b) - Covered entities may, but are not required to, obtain consent for uses/disclosures for treatment, payment, or health care operations. Consent does not override requirements for authorization or other conditions.
+---
+164.506(c) - Covered entities may use/disclose PHI for their own treatment, payment, or operations; for treatment by other providers; for payment activities of other entities; for certain health care operations of other covered entities (if both have a relationship with the individual); and within organized health care arrangements.
+---
+164.508(a) - Covered entities must obtain valid authorization for uses/disclosures of PHI not otherwise permitted, including for psychotherapy notes (with exceptions), marketing (with exceptions), and sale of PHI. Authorizations must specify if financial remuneration is involved.
+---
+164.508(b) - Authorizations must meet specific requirements to be valid, may not be combined with other documents except in limited cases, may not be conditioned on treatment/payment except as allowed, may be revoked by the individual, and must be documented and retained.
+---
+164.508(c) - Authorizations must include core elements (description of information, parties involved, purpose, expiration, signature) and required statements (revocation rights, consequences of refusal, redisclosure risks), be written in plain language, and a copy must be provided to the individual.
+---
+164.509(a) - Covered entities/business associates must obtain a valid attestation before using/disclosing PHI potentially related to reproductive health care for certain oversight, judicial, law enforcement, or administrative purposes, unless otherwise prohibited.
+---
+164.509(b) - Attestations must meet content requirements, may not be defective or combined with other documents (except as needed), and must be believed to be true.
+---
+164.509(c) - Attestations must describe the information, parties, purpose, include a statement that the use/disclosure is not prohibited, warn of criminal penalties for violations, be signed (including representative authority if applicable), and be in plain language.
+---
+164.509(d) - If a covered entity/business associate discovers a material misrepresentation in an attestation, it must cease the use/disclosure.
+---
+164.510(a) - Covered entities may include certain PHI in facility directories and disclose to clergy or those asking for the individual by name, provided the individual is informed and given an opportunity to object, or if not practicable, as determined by professional judgment.
+---
+164.510(b) - Covered entities may disclose relevant PHI to family, friends, or others involved in the individual's care or payment, or for notification purposes, with the individual's agreement, opportunity to object, or as determined by professional judgment in emergencies or incapacity. Special provisions apply for disaster relief and deceased individuals.
+---
+164.512(a) - Covered entities may use/disclose PHI as required by law, provided the use/disclosure complies with the law and relevant requirements.
+---
+164.512(b) - PHI may be used/disclosed for public health activities, including reporting diseases, child abuse, FDA-regulated product issues, exposure notifications, workplace medical surveillance, and proof of immunization to schools (with appropriate agreement).
+---
+164.512(c) - PHI may be disclosed to government authorities about victims of abuse, neglect, or domestic violence under specific conditions, with requirements to inform the individual unless it would cause harm or is otherwise inappropriate.
+---
+164.512(d) - PHI may be disclosed to health oversight agencies for oversight activities (e.g., audits, investigations, licensure), with exceptions for certain investigations not related to health care or benefits.
+---
+164.512(e) - PHI may be disclosed in judicial or administrative proceedings in response to court orders, subpoenas, or other lawful processes, provided certain assurances or protective orders are in place to safeguard the information.
+---
+164.512(f) - PHI may be disclosed to law enforcement officials under specific conditions, including legal process, identification/location purposes (with limited data), crime victims (with consent or in emergencies), decedents, crimes on premises, and emergencies. Special rules apply for abuse/neglect cases.
+---
+164.512(g) - PHI may be disclosed to coroners, medical examiners, and funeral directors as needed for their duties, including before and after death.
+---
+164.512(h) - PHI may be used/disclosed to organ procurement organizations for donation and transplantation purposes.
+---
+164.512(i) - PHI may be used/disclosed for research if certain criteria are met, including IRB/privacy board waiver, preparatory research representations, or research on decedents. Documentation and criteria for waivers are specified.
+---
+164.512(j) - PHI may be used/disclosed to avert serious threats to health or safety, to persons able to prevent the threat, or to law enforcement to identify/apprehend individuals in specific circumstances, with limitations and good faith requirements.
+---
+164.512(k) - PHI may be used/disclosed for specialized government functions, including military/veterans activities, national security, protective services, medical suitability, correctional institutions, government benefit programs, and reporting to the National Instant Criminal Background Check System, subject to specific conditions.
+---
+164.512(l) - PHI may be disclosed as required to comply with workers' compensation or similar laws providing benefits for work-related injuries or illness.
+---
+164.514(a) - Health information that is de-identified (cannot reasonably identify an individual) is not considered PHI.
+---
+164.514(b) - De-identification may be achieved by expert determination or by removing specified identifiers. Covered entities must not have actual knowledge that remaining information could identify an individual.
+---
+164.514(c) - Covered entities may assign codes for re-identification, provided codes are not derived from individual information and are not disclosed for other purposes.
+---
+164.514(d) - Covered entities must implement minimum necessary policies for use, disclosure, and requests for PHI, limiting access to only what is needed for the purpose, and may not use/disclose entire medical records unless justified.
+---
+164.514(e) - Limited data sets (PHI with certain direct identifiers removed) may be used/disclosed for research, public health, or health care operations if a data use agreement is in place specifying permitted uses, safeguards, and breach reporting.
+---
+164.514(f) - PHI may be used/disclosed for fundraising (with limitations), including demographic and certain health information, provided individuals are given an opt-out option and fundraising is not a condition for treatment/payment.
+---
+164.514(g) - Health plans may use/disclose PHI received for underwriting only for that purpose or as required by law, and must not use genetic information for underwriting.
+---
+164.514(h) - Covered entities must verify the identity and authority of persons requesting PHI (except for disclosures under §164.510), and obtain required documentation or representations as a condition of disclosure.
+---
+164.520(a) - Individuals have the right to receive a notice of privacy practices describing uses/disclosures of PHI, their rights, and the covered entity's duties. Exceptions apply for certain group health plans and inmates.
+---
+164.520(b) - The notice must be in plain language and include required elements: header, descriptions of uses/disclosures, individual rights, covered entity duties, complaint process, contact information, and effective date. Optional elements may be included if the entity limits its uses/disclosures.
+---
+164.520(c) - Covered entities must make the notice available upon request and provide it to individuals as specified (e.g., at enrollment, first service, or electronically). Revisions must be promptly distributed.
+---
+164.520(d) - Covered entities in organized health care arrangements may issue a joint notice if all participants agree to its terms and provide it as required.
+---
+164.520(e) - Covered entities must document compliance with notice requirements, retain copies of notices, and written acknowledgments or documentation of good faith efforts to obtain acknowledgment.
+---
+164.522(a) - Individuals may request restrictions on uses/disclosures of PHI for treatment, payment, or operations, and for disclosures to persons involved in their care. Covered entities are not required to agree, except they must agree to restrict disclosures to health plans for services paid in full out-of-pocket. Restrictions may be terminated under certain conditions and must be documented.
+---
+164.522(b) - Individuals may request to receive PHI communications by alternative means or locations. Covered entities must accommodate reasonable requests, with additional requirements for health plans if disclosure could endanger the individual. Requests may be required in writing, and providers may not require an explanation.
+---
+164.524(a) - Individuals have the right to access and obtain copies of their PHI in designated record sets, with exceptions (e.g., psychotherapy notes, information for legal proceedings). Certain denials are not reviewable; others require review by a licensed health professional.
+---
+164.524(b) - Covered entities must allow individuals to request access, may require written requests, and must act within 30 days (with one possible 30-day extension and written notice).
+---
+164.524(c) - Access must be provided in the requested form/format if readily producible, or as agreed. Summaries/explanations may be provided if agreed. Copies may be sent to a designated third party upon written request. Reasonable, cost-based fees may be charged for copies.
+---
+164.524(d) - If access is denied, the individual must be given a written denial with reasons, review rights (if applicable), and complaint procedures. If the entity does not maintain the PHI, it must inform the individual where to request access. Denials subject to review must be reviewed by an uninvolved licensed health professional.
+---
+164.524(e) - Covered entities must document designated record sets subject to access and the titles of responsible persons/offices.
+---
+164.526(a) - Individuals have the right to request amendment of PHI in designated record sets. Covered entities may deny requests if the information was not created by them, is not part of the record set, is not available for inspection, or is accurate and complete.
+---
+164.526(b) - Requests for amendment may be required in writing with a reason. Covered entities must act within 60 days (with one possible 30-day extension and written notice).
+---
+164.526(c) - If an amendment is accepted, the entity must identify affected records, inform the individual, and notify relevant persons/entities (including business associates) who have the PHI.
+---
+164.526(d) - If an amendment is denied, the entity must provide a written denial with reasons, inform the individual of the right to submit a statement of disagreement, and describe how to file complaints. The entity must append the request, denial, and any statements to the record and include them with future disclosures as required.
+---
+164.526(e) - Covered entities informed by another entity of an amendment must amend their own records accordingly.
+---
+164.526(f) - Entities must document the titles of persons/offices responsible for processing amendment requests and retain documentation as required.
+---
+164.528(a) - Individuals have the right to an accounting of disclosures of their PHI (excluding certain disclosures, such as for treatment, payment, operations, or those authorized by the individual) for the prior six years. The right may be temporarily suspended for law enforcement or oversight activities upon written request.
+---
+164.528(b) - The accounting must include the date, recipient, description, and purpose of each disclosure, or a copy of the request. For multiple disclosures to the same entity for a single purpose, summary information may be provided. Special provisions apply for research disclosures involving 50 or more individuals.
+---
+164.528(c) - Entities must provide the accounting within 60 days (with one possible 30-day extension and written notice). The first accounting in a 12-month period is free; reasonable fees may be charged for additional requests.
+---
+164.528(d) - Entities must document required information for accountings, the accountings provided, and the titles of responsible persons/offices, and retain documentation as required.
+---
+164.530(a) - Covered entities must designate a privacy official responsible for policy implementation and a contact person/office for complaints and information. These designations must be documented.
+---
+164.530(b) - All workforce members must be trained on privacy policies/procedures as appropriate to their roles, with documentation of training.
+---
+164.530(c) - Entities must implement administrative, technical, and physical safeguards to protect PHI from unauthorized use/disclosure, including limiting incidental uses/disclosures.
+---
+164.530(d) - Entities must provide a process for individuals to file complaints about privacy practices and document all complaints and their disposition.
+---
+164.530(e) - Entities must have and apply sanctions against workforce members who violate privacy policies, except for whistleblower and certain crime victim disclosures. Sanctions must be documented.
+---
+164.530(f) - Entities must mitigate, to the extent practicable, any harmful effects of known unauthorized uses/disclosures of PHI.
+---
+164.530(g) - Entities may not intimidate, threaten, coerce, discriminate, or retaliate against individuals for exercising their rights or participating in processes under the Privacy Rule.
+---
+164.530(h) - Entities may not require individuals to waive their Privacy Rule rights as a condition of treatment, payment, enrollment, or eligibility.
+---
+164.530(i) - Entities must implement and document policies/procedures to comply with the Privacy Rule, update them as laws change, and revise notices as needed. Changes must be documented and implemented appropriately.
+---

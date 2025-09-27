@@ -1,0 +1,269 @@
+Article 1: Subject‑matter and objectives
+This Regulation lays down rules to protect natural persons with regard to the processing of personal data and to ensure the free movement of personal data within the Union. It shall protect fundamental rights and freedoms, in particular the right to the protection of personal data, and the free movement of personal data shall not be restricted for reasons connected with that protection.
+
+Article 2: Material scope
+This Regulation shall apply to processing of personal data wholly or partly by automated means and to non‑automated processing forming part of a filing system. It shall not apply where processing falls outside Union law, to Member States’ activities under TEU Title V Chapter 2, to purely personal/household activities, or to competent authorities for criminal law purposes; processing by Union institutions is governed by Regulation (EC) No 45/2001.
+
+Article 3: Territorial scope
+This Regulation shall apply to processing in the context of the activities of an establishment of a controller or processor in the Union, irrespective of where processing occurs. It shall also apply to processing of personal data of data subjects in the Union by controllers/processors not established in the Union when offering goods/services or monitoring behaviour in the Union, and to controllers not established in the Union but subject to Member State law by public international law.
+
+Article 4: Definitions
+Key terms are defined, including "personal data", "processing", "restriction of processing", "profiling", "pseudonymisation", "filing system", "controller", "processor", "recipient", "third party", "consent", "personal data breach", special categories (genetic, biometric, health), "main establishment", "representative", "enterprise", "group of undertakings", "binding corporate rules", "supervisory authority", "cross‑border processing" and related expressions. These definitions shall apply throughout the Regulation.
+
+Article 5: Principles relating to processing of personal data
+Personal data shall be processed lawfully, fairly and transparently, collected for specified purposes and not further processed incompatibly, adequate and limited to necessity, accurate and up to date, stored no longer than necessary, and processed with appropriate security. The controller shall be responsible for, and be able to demonstrate, compliance with these principles ("accountability").
+
+Article 6: Lawfulness of processing
+Processing shall be lawful only if at least one legal basis applies: consent, contract performance, legal obligation, vital interests, public interest/official authority, or legitimate interests not overridden by data subject rights. Member States may adopt more specific rules for processing based on legal obligation or public interest; compatibility of further processing shall be assessed taking into account purpose links, context, nature of data, consequences and safeguards.
+
+Article 7: Conditions for consent
+Where processing is based on consent, the controller shall be able to demonstrate consent. Consent requests in combined declarations shall be clearly distinguishable and withdrawal shall be as easy as giving consent; assessment of "freely given" shall consider whether contract performance was made conditional on unnecessary consent.
+
+Article 8: Conditions applicable to child's consent in relation to information society services
+Processing offered directly to a child based on consent shall be lawful where the child is at least 16; for children under 16 consent shall be given or authorised by the holder of parental responsibility, and the controller shall make reasonable efforts to verify such consent taking available technology into account. Member State contract law remains unaffected.
+
+Article 9: Processing of special categories of personal data
+Processing of special categories (racial/ethnic, political, religious/philosophical, trade union, genetic, biometric for ID, health, sex life/orientation) shall be prohibited unless specific conditions apply (explicit consent, employment/social security obligations under law, vital interests, non‑profit bodies processing for members, manifestly public data, legal claims, substantial public interest under law with safeguards, health care/medical purposes under professional secrecy, public health, or research/archiving under Article 89 safeguards). Member States may add conditions for genetic/biometric/health data.
+
+Article 10: Processing of personal data relating to criminal convictions and offences
+Processing of data relating to criminal convictions/offences or related security measures shall be carried out only under the control of official authority or when authorised by Union or Member State law providing appropriate safeguards; comprehensive registers of criminal convictions shall be kept only under official authority control.
+
+Article 11: Processing which does not require identification
+If a controller’s purposes do not require identification, the controller shall not be obliged to identify data subjects or acquire additional information solely to comply with this Regulation. Where the controller cannot identify the data subject, it shall inform the data subject if possible; Articles 15–20 do not apply unless the data subject provides additional identifying information to exercise those rights.
+
+Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject
+The controller shall take appropriate measures to provide information under Articles 13–14 and to respond to Articles 15–22 and Article 34 in a concise, transparent, intelligible and easily accessible form using plain language; information may be written or electronic and may be provided orally upon identity verification. The controller shall facilitate the exercise of data subject rights, respond without undue delay and within one month (extendable by two months with notice), provide information free of charge except for manifestly unfounded or excessive requests, may request identity verification where reasonable doubts exist, and may use standardised machine‑readable icons as determined by delegated acts.
+
+Article 13: Information to be provided where personal data are collected from the data subject
+When personal data are collected from the data subject, the controller shall, at the time of collection, provide identity/contact details of controller (and representative), DPO contact, purposes and legal basis, legitimate interests where applicable, recipients or categories of recipients, intended transfers to third countries and safeguards, storage period or selection criteria, data subject rights (access, rectification, erasure, restriction, objection, portability), right to withdraw consent, right to lodge complaint, whether provision is statutory/contractual and consequences of non‑provision, and existence/logic/significance/consequences of automated decision‑making including profiling. Further processing for incompatible purposes shall require prior information.
+
+Article 14: Information to be provided where personal data have not been obtained from the data subject
+Where personal data are not obtained from the data subject, the controller shall provide, within a reasonable period (at latest within one month), or at first communication/disclosure if applicable, identity/contact details, DPO contact, purposes and legal basis, categories of data, recipients, transfers to third countries and safeguards, storage period or criteria, legitimate interests where applicable, data subject rights, right to withdraw consent, right to lodge complaint, source of data (and if from public sources), and automated decision‑making information. Exceptions apply where data subject already has information, provision is impossible/disproportionate (archiving/research/statistics with safeguards), expressly required by law, or where professional secrecy applies.
+
+Article 15: Right of access by the data subject
+The data subject shall have the right to obtain confirmation whether personal data concerning them are processed and, where so, access to the data and information on purposes, categories, recipients (including third countries), storage period or criteria, rights to rectification/erasure/restriction/objection/portability, right to lodge complaint, source of data if not collected from data subject, and details of automated decision‑making including profiling. Where transfers to third countries occur, appropriate safeguards shall be disclosed. The controller shall provide a copy of the personal data; further copies may be subject to reasonable administrative fees, and electronic requests shall be answered electronically where possible.
+
+Article 16: Right to rectification
+The data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning them and to have incomplete data completed, including by supplementary statement, taking into account the purposes of processing.
+
+Article 17: Right to erasure ('right to be forgotten')
+The data subject shall have the right to obtain erasure of personal data without undue delay where grounds apply (data no longer necessary, withdrawal of consent without other legal ground, objection where no overriding legitimate grounds, unlawful processing, legal obligation, data collected in relation to information society services offered to a child). Where public disclosure occurred, controllers shall take reasonable steps to inform other controllers to erase links/copies/replications. The right shall not apply where processing is necessary for freedom of expression, compliance with legal obligation/public interest/official authority, public health, archiving/research/statistics under Article 89 safeguards, or establishment/exercise/defence of legal claims.
+
+Article 18: Right to restriction of processing
+The data subject shall have the right to obtain restriction of processing where accuracy is contested pending verification, processing is unlawful and the data subject opposes erasure and requests restriction instead, controller no longer needs the data but data subject requires them for legal claims, or where the data subject has objected pending verification of controller’s overriding grounds. Restricted data shall only be processed (except storage) with data subject consent or for legal claims, protection of others’ rights, or important public interest; the controller shall inform the data subject before lifting a restriction.
+
+Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing
+The controller shall communicate any rectification, erasure or restriction of processing carried out pursuant to Articles 16–18 to each recipient to whom data have been disclosed, unless impossible or involves disproportionate effort; the controller shall inform the data subject about those recipients upon request.
+
+Article 20: Right to data portability
+The data subject shall have the right to receive personal data they have provided to a controller in a structured, commonly used, machine‑readable format and to transmit those data to another controller without hindrance where processing is based on consent or contract and carried out by automated means. The data subject shall have the right to have the data transmitted directly between controllers where technically feasible. This right shall be without prejudice to the right to erasure and shall not apply to processing necessary for public interest/official authority nor adversely affect others’ rights and freedoms.
+
+Article 21: Right to object
+The data subject shall have the right to object at any time, on grounds relating to their particular situation, to processing based on public interest or legitimate interests (Article 6(1)(e),(f)), including profiling; the controller shall cease processing unless it demonstrates compelling legitimate grounds overriding the data subject's interests or for legal claims. For direct marketing, data subjects shall have the right to object at any time and processing for such purposes shall cease. In information society services, the right may be exercised by automated means; for research/statistics under Article 89, objection applies only if processing is not necessary for public interest tasks.
+
+Article 22: Automated individual decision‑making, including profiling
+The data subject shall have the right not to be subject to decisions based solely on automated processing, including profiling, which produce legal effects or similarly significantly affect them. Exceptions apply where necessary for contract entry/performance (with suitable safeguards: human intervention, expression of views, contesting decision), where authorised by Union/Member State law with safeguards, or where based on explicit consent, subject to additional safeguards and limitations regarding special categories of data.
+
+Article 23: Restrictions
+Union or Member State law may, by legislative measure, restrict the scope of obligations and rights in Articles 12–22 and 34 (and corresponding provisions of Article 5) when such restriction respects the essence of fundamental rights and is necessary and proportionate in a democratic society to safeguard specified objectives (national security, defence, public security, criminal investigations/execution of penalties, important public interest including economic/financial/public health/social security, judicial independence, regulated professions’ ethics enforcement, regulatory/inspection functions, protection of data subject or others, enforcement of civil law claims). Any legislative restriction shall contain specific provisions on purposes/categories of processing, categories of personal data, scope, safeguards to prevent abuse, specification of controllers, storage periods and safeguards, risks, and right of data subjects to be informed unless prejudicial.
+
+Article 24: Responsibility of the controller
+Taking into account nature, scope, context and purposes of processing and risks, the controller shall implement appropriate technical and organisational measures to ensure and demonstrate compliance with this Regulation and shall review and update them as necessary; measures may include data protection policies and adherence to approved codes of conduct or certification mechanisms as elements of demonstration of compliance.
+
+Article 25: Data protection by design and by default
+The controller shall implement appropriate technical and organisational measures, including pseudonymisation where appropriate, at the time of determining processing means and during processing to implement data‑protection principles effectively and integrate safeguards to meet Regulation requirements. By default, only personal data necessary for each specific purpose shall be processed (amount, extent, storage period, accessibility), ensuring data are not made accessible without individual intervention to indefinite numbers of persons. Approved certification may be used as evidence of compliance.
+
+Article 26: Joint controllers
+Where two or more controllers jointly determine purposes and means of processing they shall be joint controllers and shall in a transparent manner determine respective responsibilities for compliance, particularly regarding data subject rights and information obligations (Articles 13–14), by means of an arrangement which may designate a contact point and whose essence shall be made available to data subjects. Data subjects may exercise rights against each controller.
+
+Article 27: Representatives of controllers or processors not established in the Union
+Where Article 3(2) applies, controllers or processors not established in the Union shall designate in writing a representative in the Union, except for occasional low‑risk processing or for public authorities; the representative shall be established in a Member State where data subjects are targeted or monitored and shall be mandated to be addressed by supervisory authorities and data subjects on processing compliance issues. Designation of a representative does not affect legal actions against the controller or processor.
+
+Article 28: Processor
+Where processing is carried out on behalf of a controller, the controller shall use only processors providing sufficient guarantees to implement appropriate technical and organisational measures and shall ensure processing is governed by a written contract or other legal act specifying subject‑matter, duration, nature, purpose, data types, categories of data subjects, and obligations/rights. The contract shall require the processor to act only on documented instructions, ensure confidentiality, implement Article 32 measures, seek controller approval before sub‑processing, assist the controller with data subject rights and compliance with Articles 32–36, delete or return data at end of services, make available information to demonstrate compliance and allow audits, and inform the controller if instructions infringe the Regulation. Where processors engage sub‑processors, the same obligations shall be imposed and the initial processor shall remain liable for the sub‑processor's failures. Contracts may be based on standard contractual clauses and must be in writing; where a processor determines purposes/means it shall be considered a controller for that processing.
+
+Article 29: Processing under the authority of the controller or processor
+Processors and any person acting under the authority of the controller or processor who has access to personal data shall process those data only on instructions from the controller, unless required to do so by Union or Member State law.
+
+Article 30: Records of processing activities
+Each controller (and representative where applicable) shall maintain a record of processing activities under its responsibility containing controller/representative/DPO contact details, purposes, categories of data subjects and data, recipients including third countries and safeguards for transfers, envisaged erasure time limits, and a general description of technical and organisational security measures. Each processor shall maintain records of categories of processing carried out on behalf of controllers, including contacts, categories of processing, transfers and security measures. Records shall be in writing and made available to supervisory authorities on request; exemptions apply for organisations with fewer than 250 employees unless processing is likely to result in risk, is not occasional, or includes special categories/criminal data.
+
+Article 31: Cooperation with the supervisory authority
+The controller and processor and, where applicable, their representatives shall cooperate, on request, with the supervisory authority in the performance of its tasks.
+
+Article 32: Security of processing
+Taking into account state of the art, costs, nature, scope, context, purposes and risks, controllers and processors shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including as appropriate pseudonymisation and encryption, ongoing confidentiality, integrity, availability and resilience of systems, ability to restore availability and access in timely manner, and processes for regular testing, assessment and evaluation. Controllers and processors shall ensure persons acting under their authority process data only on instructions.
+
+Article 33: Notification of a personal data breach to the supervisory authority
+In the event of a personal data breach the controller shall without undue delay, and where feasible not later than 72 hours after awareness, notify the supervisory authority unless the breach is unlikely to result in risk to rights and freedoms; notifications later than 72 hours shall state reasons for delay. Processors shall notify controllers without undue delay. Notifications shall describe nature of breach, categories and approximate numbers of data subjects and records affected, DPO/contact details, likely consequences, measures taken or proposed to address breach and mitigate effects; information may be provided in phases. The controller shall document breaches, effects and remedial actions to enable supervisory authority verification.
+
+Article 34: Communication of a personal data breach to the data subject
+Where a personal data breach is likely to result in a high risk to rights and freedoms, the controller shall communicate the breach to the data subject without undue delay, describing in plain language the nature of the breach, DPO/contact details, likely consequences and measures taken/proposed including mitigation. Communication is not required if appropriate technical and organisational protections (e.g., encryption) were applied, subsequent measures ensure high risk no longer likely, or communication would involve disproportionate effort (in which case public communication is required). Supervisory authority may require communication or decide exemptions apply.
+
+Article 35: Data protection impact assessment
+Where processing (especially using new technologies) is likely to result in high risk to rights and freedoms, the controller shall carry out, prior to processing, a data protection impact assessment (DPIA); a single DPIA may address similar operations. The controller shall seek DPO advice where designated. DPIAs shall be required for systematic large‑scale profiling producing legal/equivalent effects, large‑scale processing of special categories/criminal data, or large‑scale systematic monitoring of public areas. DPIAs shall describe processing, assess necessity and proportionality, assess risks to rights/freedoms and list measures to address risks and demonstrate compliance. Supervisory authorities shall publish lists of processing requiring or exempted from DPIAs; controllers shall consult data subjects where appropriate and shall review DPIAs when risk changes.
+
+Article 36: Prior consultation
+Where a DPIA indicates high residual risk, the controller shall consult the supervisory authority prior to processing. Member State law may require prior authorisation for public interest processing. If the supervisory authority finds intended processing would infringe the Regulation it shall provide written advice within up to eight weeks (extendable by six weeks); periods may be suspended pending requested information. Controllers shall provide responsibilities, purposes, measures/safeguards, DPO contact, the DPIA and other requested information when consulting. Member States shall consult supervisory authorities during preparation of legislative/regulatory measures affecting processing.
+
+Article 37: Designation of the data protection officer
+The controller and the processor shall designate a DPO where processing is carried out by a public authority (except courts acting judicially), where core activities require regular and systematic large‑scale monitoring, or where core activities consist of large‑scale processing of special categories or criminal data. A group may appoint a single DPO accessible from each establishment; a DPO shall be designated on the basis of professional qualities and expert knowledge of data protection law and practices and may be a staff member or contract‑based. The controller/processor shall publish DPO contact details and communicate them to the supervisory authority.
+
+Article 38: Position of the data protection officer
+The controller and processor shall ensure the DPO is involved properly and in a timely manner in all issues relating to data protection, provided with necessary resources, access to personal data and processing operations, and expert knowledge. The DPO shall not receive instructions regarding task exercise, shall not be dismissed or penalised for performing tasks, and shall report directly to the highest management level. Data subjects may contact the DPO on processing issues; the DPO shall be bound by confidentiality and may perform other tasks provided no conflict of interest arises.
+
+Article 39: Tasks of the data protection officer
+The DPO shall inform and advise the controller/processor and staff on obligations under this Regulation, monitor compliance (including policies, audits, awareness and training), provide advice and monitor DPIAs, cooperate with supervisory authorities, and act as contact point for supervisory authorities. The DPO shall perform tasks with due regard to processing risk considering nature, scope, context and purposes.
+
+Article 40: Codes of conduct
+Member States, supervisory authorities, the Board and Commission shall encourage drawing up codes of conduct to contribute to proper application of the Regulation, taking account of sector features and SMEs’ needs. Associations and bodies may prepare codes for specific applications (transparency, legitimate interests, collection, pseudonymisation, information to public/children, rights exercise, security, breach notification, transfers, dispute resolution). Draft codes shall be submitted to competent supervisory authorities for opinion/approval; codes covering multiple Member States follow the consistency mechanism and may be given general validity by Commission implementing acts. Approved codes shall be registered and published by the Board.
+
+Article 41: Monitoring of approved codes of conduct
+Monitoring of compliance with a code of conduct may be carried out by an accredited body with appropriate expertise, independence and procedures to assess eligibility, monitor compliance, handle complaints and avoid conflicts of interest; accreditation requirements shall be submitted to the Board. Monitoring bodies, subject to safeguards, may take action on infringements (suspension/exclusion) and must inform supervisory authorities; competent authorities shall revoke accreditation where requirements are not met. Article 41 excludes processing by public authorities.
+
+Article 42: Certification
+Member States, supervisory authorities, the Board and Commission shall encourage establishment of data protection certification mechanisms, seals and marks for demonstrating compliance, taking SMEs’ needs into account. Certification shall be voluntary, transparent, and shall not reduce controllers’/processors’ responsibility; certification shall be issued by accredited certification bodies or competent supervisory authorities based on approved criteria, for up to three years, renewable, and may be withdrawn if criteria are not met. The Board shall collate certification mechanisms and seals in a public register.
+
+Article 43: Certification bodies
+Certification bodies shall be accredited by competent supervisory authorities and national accreditation bodies, demonstrating independence, expertise, procedures for issuing/withdrawing certificates, complaint handling and absence of conflicts of interest. Accreditation requirements and certification criteria shall be public and transmitted to the Board; accreditation is for up to five years and may be revoked if conditions cease to be met. Certification bodies shall inform supervisory authorities of reasons for granting or withdrawing certifications; the Commission may adopt delegated and implementing acts specifying requirements and technical standards.
+
+Article 44: General principle for transfers
+Any transfer of personal data to a third country or international organisation shall take place only if conditions in Chapter V are complied with so that the level of protection guaranteed by this Regulation is not undermined, including onward transfers.
+
+Article 45: Transfers on the basis of an adequacy decision
+The Commission may decide that a third country, territory, sector or international organisation ensures an adequate level of protection, permitting transfers without specific authorisation. Adequacy assessments shall consider rule of law, human rights, relevant legislation, onward transfer rules, enforceable data subject rights and redress, functioning independent supervisory authorities, and international commitments; decisions shall provide periodic review mechanisms and may be repealed/suspended if adequacy no longer ensured, with consultations with the third country and publication of lists in the Official Journal.
+
+Article 46: Transfers subject to appropriate safeguards
+In absence of an adequacy decision, transfers may occur only if appropriate safeguards are provided and enforceable data subject rights and effective legal remedies are available. Appropriate safeguards may include legally binding instruments between public authorities, binding corporate rules, Commission or supervisory authority standard clauses, approved codes of conduct with binding commitments, or approved certification mechanisms with binding commitments. Subject to supervisory authority authorisation, safeguards may include contractual clauses or administrative arrangements; authorisations under prior directives remain valid until amended.
+
+Article 47: Binding corporate rules
+Competent supervisory authorities shall approve binding corporate rules (BCRs) for intra‑group transfers where they are legally binding, enforceable against each member and confer enforceable rights on data subjects. BCRs shall specify structure, transfers, categories of data, legal nature, application of data protection principles, data subject rights including automated decision‑making safeguards, liability acceptance, information provision, DPO/monitoring tasks, complaint procedures, compliance verification (audits) and cooperation with supervisory authorities; the Commission may specify formats and procedures for information exchange regarding BCRs.
+
+Article 48: Transfers or disclosures not authorised by Union law
+Any foreign court/administrative decision requiring transfer/disclosure of personal data by a controller/processor shall only be recognised or enforceable if based on an international agreement (e.g., MLA treaty) in force between the requesting country and the Union/Member State, without prejudice to other Chapter V grounds.
+
+Article 49: Derogations for specific situations
+In absence of adequacy or appropriate safeguards, transfers to third countries/international organisations may exceptionally occur under specified derogations: explicit informed consent, necessity for contract performance/pre‑contractual measures, necessary for contract concluded in interest of data subject, necessary for important public interest recognised in Union/Member State law, necessary for establishment/exercise/defence of legal claims, necessary to protect vital interests where consent cannot be given, or transfers from public registers open to consultation under law. If none apply, a one‑off transfer may be allowed for compelling legitimate interests after assessment and supervisory authority notification, with documentation in records; Member States may set limits for important public interest reasons.
+
+Article 50: International cooperation for the protection of personal data
+The Commission and supervisory authorities shall take appropriate steps to develop international cooperation mechanisms to facilitate enforcement, provide mutual assistance (notifications, complaint referral, investigation help, information exchange) subject to safeguards, engage stakeholders to further cooperation, and promote exchange/documentation of data protection legislation and practice.
+
+Article 51: Supervisory authority
+Each Member State shall provide for one or more independent public authorities ("supervisory authority") responsible for monitoring application of this Regulation to protect data subjects' rights and facilitate free flow of personal data; supervisory authorities shall contribute to consistent application across the Union and cooperate under Chapter VII. Where multiple authorities exist, one shall be designated to represent them in the Board; Member States shall notify relevant laws to the Commission.
+
+Article 52: Independence
+Each supervisory authority shall act with complete independence, its members free from external influence and instructions, refraining from incompatible actions or occupations. Member States shall provide supervisory authorities with necessary human, technical and financial resources, premises and infrastructure, dedicated staff under authority direction, financial control that does not affect independence, and separate public budgets.
+
+Article 53: General conditions for the members of the supervisory authority
+Members shall be appointed by transparent procedures, possess necessary qualifications and experience in data protection, and serve terms ending by expiry, resignation or compulsory retirement; dismissal shall occur only for serious misconduct or failure to fulfil required conditions.
+
+Article 54: Rules on the establishment of the supervisory authority
+Member States shall by law establish supervisory authorities, define qualifications/eligibility, appointment rules, term durations (minimum four years), reappointment eligibility, duties/obligations and prohibitions during/after term, and rules governing cessation. Members and staff shall be subject to professional secrecy during and after term with regard to confidential information.
+
+Article 55: Competence
+Each supervisory authority shall be competent to perform tasks and exercise powers on the territory of its Member State. For processing by public authorities/private bodies based on legal obligations or public interest/official authority, the supervisory authority of the Member State concerned shall be competent (Article 56 not applicable). Supervisory authorities shall not supervise courts acting in their judicial capacity.
+
+Article 56: Competence of the lead supervisory authority
+For cross‑border processing, the supervisory authority of the controller's or processor's main or single establishment shall act as lead supervisory authority under Article 60 procedures. Exceptions apply where matters relate only to an establishment in another Member State or substantially affect data subjects only in another Member State; lead authority shall be the sole interlocutor for cross‑border processing.
+
+Article 57: Tasks
+Each supervisory authority shall, on its territory, monitor and enforce the Regulation, promote public awareness (with attention to children), advise governments/parliaments, promote controller/processor awareness, provide information to data subjects, handle complaints and investigations, cooperate and share information with other authorities, monitor technological/commercial developments, adopt standard contractual clauses, maintain DPIA lists, give advice on prior consultations, encourage and approve codes of conduct and certification criteria, carry out accreditation and approvals, authorise contractual clauses and administrative arrangements for transfers, approve BCRs, contribute to the Board, keep records of infringements and measures, and fulfil other data protection tasks. Authorities shall facilitate complaint submission and may charge or refuse manifestly unfounded/excessive requests.
+
+Article 58: Powers
+Supervisory authorities shall have investigative powers (require information, audits, review certifications, notify alleged infringements, access personal data and premises) and corrective powers (warnings, reprimands, orders to comply, enforce notifications, impose processing limitations/bans, order rectification/erasure/restriction and notifications, withdraw certifications, impose administrative fines, suspend data flows). They shall also have authorisation/advisory powers (advise controllers, issue opinions to authorities, authorise certain processing, approve codes, accredit certification bodies, issue certifications, adopt standard clauses, authorise contractual/administrative transfer arrangements, approve BCRs). Exercise of powers shall be subject to appropriate safeguards including judicial remedy; supervisory authorities may bring infringements to judicial attention and may be granted additional powers by Member States.
+
+Article 59: Activity reports
+Each supervisory authority shall draw up an annual report on its activities (including lists of infringements and measures taken), transmit it to national parliament/government/other designated authorities, and make it public and available to the Commission and the Board.
+
+Article 60: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+The lead supervisory authority shall cooperate with other supervisory authorities to reach consensus, exchange relevant information, request mutual assistance or conduct joint operations, submit draft decisions for opinion, and take due account of objections (relevant and reasoned objections trigger the consistency mechanism). If no objections are raised in prescribed periods, authorities are deemed in agreement and bound by the draft decision; the lead authority shall notify decisions, inform complainants, and controllers/processors shall implement decisions across all Union establishments. Urgency procedures apply in exceptional circumstances.
+
+Article 61: Mutual assistance
+Supervisory authorities shall provide mutual assistance and relevant information to implement the Regulation consistently, responding without undue delay and normally within one month. Assistance requests shall include purpose/reasons and information exchanged shall be used only for the requested purpose; refusal is limited to lack of competence or conflict with applicable law. Requested authorities shall report results or reasons for refusal, respond electronically in a standard format, and not charge fees except indemnities in exceptional circumstances. Failure to respond within one month may permit the requesting authority to adopt provisional measures.
+
+Article 62: Joint operations of supervisory authorities
+Supervisory authorities shall, where appropriate, conduct joint operations (investigations/enforcement) involving staff from other Member States, with host Member State assuming responsibility for actions/liability of seconded staff. Authorities of Member States substantially affected by processing have the right to participate; seconded staff may be conferred powers in accordance with host law and operate under host authority guidance. Liability and reimbursement rules for damage caused by seconded staff are set out; failure to comply with joint operation participation obligations may permit provisional measures by other authorities.
+
+Article 63: Consistency mechanism
+Supervisory authorities shall cooperate with each other and, where relevant, the Commission through the consistency mechanism to ensure consistent application of the Regulation across the Union, with procedures set out in the following Articles.
+
+Article 64: Opinion of the Board
+The Board shall issue opinions on draft measures by competent supervisory authorities concerning matters such as DPIA lists, draft codes of conduct, accreditation/certification criteria, standard clauses, contractual clauses authorisation and BCR approval; any supervisory authority, the Board Chair or the Commission may request Board examination of matters of general application. The Board shall adopt opinions within eight weeks (extendable by six weeks) and communicate opinions publicly; competent authorities shall take utmost account of the Board’s opinion and notify whether they will amend drafts or maintain them, triggering Article 65 where they do not follow the opinion.
+
+Article 65: Dispute resolution by the Board
+The Board shall adopt binding decisions where lead authority draft decisions receive relevant and reasoned objections, where there are disputes on which authority is competent, or where a competent authority fails to request or follow the Board's opinion. Binding decisions shall be adopted by a two‑thirds majority within one month (extendable) and are addressed to lead and concerned authorities and are binding; final decisions by supervisory authorities shall be adopted without undue delay on the basis of the Board’s decision and published.
+
+Article 66: Urgency procedure
+In exceptional circumstances where urgent action is needed to protect data subject interests, a supervisory authority concerned may immediately adopt provisional measures for up to three months and must communicate them and reasons to other authorities, the Board and the Commission. The authority may request an urgent opinion or binding decision from the Board; urgent opinions/decisions shall be adopted within two weeks. Any supervisory authority may request urgent Board action where another competent authority has not acted appropriately.
+
+Article 67: Exchange of information
+The Commission may adopt implementing acts specifying arrangements and standardised formats for electronic exchange of information between supervisory authorities and between authorities and the Board, following the examination procedure.
+
+Article 68: European Data Protection Board
+The European Data Protection Board (EDPB or "Board") is established as a Union body with legal personality composed of heads (or representatives) of national supervisory authorities and the European Data Protection Supervisor; the Board shall be represented by its Chair and the Commission may participate without vote. Where multiple supervisory authorities exist in a Member State, a joint representative shall be appointed. The European Data Protection Supervisor shall have voting rights in Article 65 cases concerning Union institutions.
+
+Article 69: Independence
+The Board shall act independently in performing its tasks and exercising its powers and shall not seek or take instructions from anyone, subject to specific Commission requests under Articles 70(1)–(2).
+
+Article 70: Tasks of the Board
+The Board shall ensure consistent application of the Regulation by monitoring and ensuring correct application in cases under Articles 64–65, advising the Commission, issuing guidelines/recommendations/best practices (including on erasure of links/copies, profiling criteria, breach notification timing, criteria for high risk), specifying criteria for transfers/BCRs/derogations, drawing up guidance on supervisory measures and fines, encouraging codes of conduct and certification, approving certification criteria, accrediting monitoring bodies, advising on icons, and maintaining registers of decisions and certifications. The Board shall forward outputs to the Commission and the committee and consult interested parties where appropriate.
+
+Article 71: Reports
+The Board shall draw up an annual public report on protection of natural persons regarding processing in the Union (and where relevant third countries), including a review of guidelines and binding decisions, and transmit it to the European Parliament, Council and Commission.
+
+Article 72: Procedure
+The Board shall take decisions by simple majority unless otherwise provided, and shall adopt its rules of procedure by two‑thirds majority and organise its operational arrangements.
+
+Article 73: Chair
+The Board shall elect a Chair and two deputy chairs by simple majority; the term of office is five years and renewable once.
+
+Article 74: Tasks of the Chair
+The Chair shall convene Board meetings, prepare agendas, notify binding decisions to lead and concerned supervisory authorities, and ensure timely Board task performance, particularly relating to the consistency mechanism; allocation of tasks between Chair and deputies shall be in the Board’s rules of procedure.
+
+Article 75: Secretariat
+The Board shall have a secretariat provided by the European Data Protection Supervisor, which shall act under the Chair’s instructions and maintain separate reporting lines for staff involved in Board tasks. The secretariat shall support the Board’s day‑to‑day business, communication, use of electronic means, translation, meeting preparation, and drafting/publishing of Board outputs; a Memorandum of Understanding may set cooperation terms.
+
+Article 76: Confidentiality
+Board discussions shall be confidential where deemed necessary in its rules of procedure; access to documents submitted to members, experts and third parties shall be governed by Regulation (EC) No 1049/2001.
+
+Article 77: Right to lodge a complaint with a supervisory authority
+Every data subject shall have the right to lodge a complaint with a supervisory authority, in particular in the Member State of habitual residence, workplace or alleged infringement, if they consider processing infringes the Regulation. The supervisory authority shall inform the complainant of the progress and outcome, including judicial remedy possibility.
+
+Article 78: Right to an effective judicial remedy against a supervisory authority
+Any natural or legal person shall have the right to an effective judicial remedy against legally binding decisions of a supervisory authority concerning them. Data subjects shall have a remedy where the supervisory authority does not handle a complaint or fails to inform within three months. Proceedings against supervisory authorities shall be brought before courts of the Member State where the authority is established; opinions/decisions of the Board shall be forwarded to courts where relevant.
+
+Article 79: Right to an effective judicial remedy against a controller or processor
+Data subjects shall have the right to an effective judicial remedy where they consider their rights under the Regulation have been infringed by processing. Proceedings against controllers/processors shall be brought before courts of the Member State where the controller/processor has an establishment or where the data subject has habitual residence (unless controller/processor is a public authority acting in exercise of public powers).
+
+Article 80: Representation of data subjects
+Data subjects may mandate not‑for‑profit bodies, organisations or associations constituted under Member State law and active in data protection to lodge complaints and exercise rights (Articles 77–79) and seek compensation on their behalf where provided by Member State law. Member States may allow such bodies to act independently, without mandate, to lodge complaints and exercise rights if they consider a data subject’s rights have been infringed.
+
+Article 81: Suspension of proceedings
+Where courts in multiple Member States have proceedings concerning the same subject matter and controller/processor, courts shall contact each other to confirm existence of parallel proceedings. Courts other than the first seized may suspend proceedings or, on party application, decline jurisdiction if consolidation by the first court is possible under its law.
+
+Article 82: Right to compensation and liability
+Any person who has suffered material or non‑material damage as a result of infringement of the Regulation shall have the right to receive compensation from the controller or processor. Controllers shall be liable for damages caused by processing that infringes the Regulation; processors shall be liable where they failed to comply with processor‑specific obligations or acted outside lawful instructions. Controllers/processors may be exempt from liability if they prove non‑responsibility for the event causing damage. Where multiple controllers/processors are responsible, each may be held liable for entire damage to ensure effective compensation, with rights of recourse among them. Court proceedings shall be brought before courts competent under Article 79(2).
+
+Article 83: General conditions for imposing administrative fines
+Supervisory authorities shall ensure administrative fines are effective, proportionate and dissuasive. When imposing fines, authorities shall consider nature, gravity, duration, intentional/negligent character, mitigation measures, degree of responsibility, previous infringements, cooperation, data categories affected, manner of discovery, compliance with prior measures, adherence to codes or certifications, and any aggravating/mitigating factors including financial benefit. For multiple infringements the total fine shall not exceed that for the gravest infringement. Specific infringement tiers: up to €10,000,000 or 2% global turnover for certain controller/processor obligations (Articles 8,11,25–39,42–43 and related); up to €20,000,000 or 4% turnover for basic processing principles, data subject rights, transfers, and other obligations; non‑compliance with supervisory orders may attract the higher tier. Member States may set rules on fines for public authorities; exercise of fining powers shall have procedural safeguards and judicial remedies; where administrative fines are not provided by national law, equivalent court‑imposed fines may be used.
+
+Article 84: Penalties
+Member States shall lay down rules on other penalties for infringements not covered by Article 83 and ensure they are implemented; such penalties shall be effective, proportionate and dissuasive, and Member States shall notify the Commission of provisions adopted.
+
+Article 85: Processing and freedom of expression and information
+Member States shall reconcile data protection rights with freedom of expression and information, including processing for journalistic, academic, artistic or literary purposes. For such processing Member States shall provide exemptions or derogations from specified Chapters where necessary to reconcile the rights.
+
+Article 86: Processing and public access to official documents
+Personal data in official documents held by public authorities or bodies may be disclosed in accordance with Union or Member State law to reconcile public access to official documents with the right to data protection under this Regulation.
+
+Article 87: Processing of the national identification number
+Member States may determine specific conditions for processing national identification numbers or other identifiers of general application; such identifiers shall be used only under appropriate safeguards for data subject rights and freedoms.
+
+Article 88: Processing in the context of employment
+Member States may provide by law or collective agreements for more specific rules protecting employees’ rights in employment‑related processing (recruitment, performance, legal obligations, work organisation, equality, health/safety, property protection, rights/benefits and termination). Rules shall include suitable measures to safeguard human dignity, legitimate interests and fundamental rights, particularly transparency, intra‑group transfers and workplace monitoring; Member States shall notify such provisions.
+
+Article 89: Safeguards and derogations for research and archiving
+Processing for archiving in the public interest, scientific/historical research or statistics shall be subject to appropriate safeguards (data minimisation, pseudonymisation) to protect rights and freedoms; where purposes can be fulfilled without identification, they shall be. Union/Member State law may provide derogations from certain data subject rights (Articles 15–18,21) where such rights would render the research objectives impossible or seriously impaired, subject to safeguards.
+
+Article 90: Obligations of secrecy
+Member States may adopt specific rules to set out supervisory authorities’ powers to obtain access to personal data and premises in relation to controllers/processors subject to professional secrecy, where necessary and proportionate to reconcile data protection and secrecy obligations; these rules apply only to data obtained in activities covered by the secrecy obligation and shall be notified to the Commission.

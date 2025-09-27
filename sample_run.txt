@@ -1,0 +1,10 @@
+# Don't forget to set your OpenAI, DeepSeek, or OpenRouter API keys in script.py.
+
+# Use Qwen2.5 from OpenRouter on HIPAA using PRT as few-shot.
+python script.py --model_id "qwen/qwen-2.5-7b-instruct" --policy_file "hipaa/hipaa.txt" --test_file "hipaa/test.csv" --reasoning_traces_file "hipaa/r1-reasoning.csv" --mode "few_shot_PRT"
+
+# Use GPT-5-Mini from OpenAI on GDPR using PRT as few-shot.
+python script.py --model_id "gpt-5-mini" --policy_file "gdpr/gdpr.txt" --test_file "gdpr/test.csv" --reasoning_traces_file "gdpr/r1-reasoning.csv" --mode "few_shot_PRT"
+
+# Use DeepSeek-R1 from DeepSeek on ModelSpec using PRT as few-shot.
+python script.py --model_id "deepseek-reasoner" --policy_file "modelspec/modelspec.txt" --test_file "modelspec/test.csv" --reasoning_traces_file "modelspec/r1-reasoning.csv" --mode "few_shot_PRT"
